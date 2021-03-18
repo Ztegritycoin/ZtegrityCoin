@@ -1,25 +1,24 @@
 # ztegritycoin
 
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Sxvgf6zW/splash.png' border='0' alt='splash'/></a>
- 
+<a href='https://postimg.cc/kDjH3Jgm' target='_blank'><img src='https://i.postimg.cc/PrhnDNGP/bitcoin.png' border='0' alt='bitcoin'/></a> 
 
 # What is ztegritycoin?
-ztegritycoin is a Blockchain using the highly-secure and power-efficient NIST5 algorithm. Combining limited Proof-of-Work, ztegritycoin coin (ztegritycoin) is unique in its distribution. 
+Ztegritycoin is a Blockchain using the highly-secure and power-efficient NIST5 algorithm. Combining limited Proof-of-Work, ztegritycoin coin (ztegritycoin) is unique in its distribution. 
 
 <a name="specifications"></a>
 ## Technical Specifications
 <table>
-<tr> <td>Ticker</td><td>ztegritycoin</td></tr>
+<tr> <td>Ticker</td><td>ZTCO</td></tr>
 <tr> <td>Algorithm</td><td>NIST5/SHA-256</td></tr>
 <tr> <td>Consensus</td><td>Proof-of-Work</td></tr>
-<tr> <td>Maximum Supply</td><td>21,000,000* </td></tr>
-<tr> <td>Block Time</td><td>64 Seconds</td></tr>
+<tr> <td>Maximum Supply</td><td>100,000,000* </td></tr>
+<tr> <td>Block Time</td><td>300 Seconds</td></tr>
 <tr> <td>Block Size</td><td>10 MB</td></tr>
 <tr> <td>Transactions Per Second</td><td>~800</td></tr>
 <tr> <td>Retarget</td><td>Every Block</td></tr>
 <tr> <td>Lightning Network</td><td>Yes</td></tr>
 <tr> <td>Atomic Swap</td><td>Yes (Barterdex)</td></tr>
-<tr> <td>Premine</td><td>3%</td></tr>
+<tr> <td>Premine</td><td>10%</td></tr>
 <tr> <td>Foundation</td><td>Yes</td></tr>
 </table>
 
