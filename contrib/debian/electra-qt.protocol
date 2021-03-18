@@ -1,0 +1,11 @@
+[Protocol]
+exec=ztegritycoin-qt '%u'
+protocol=ztegritycoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

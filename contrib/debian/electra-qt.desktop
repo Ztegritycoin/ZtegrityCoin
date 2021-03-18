@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ztegritycoin
+Comment=ztegritycoin P2P Cryptocurrency
+Comment[fr]=ztegritycoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=ztegritycoin, eşten eşe kriptografik sanal para birimi
+Exec=ztegritycoin-qt %u
+Terminal=false
+Type=Application
+Icon=bitcoin128
+MimeType=x-scheme-handler/ztegritycoin;
+Categories=Office;Finance;

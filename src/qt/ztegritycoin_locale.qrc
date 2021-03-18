@@ -1,0 +1,36 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/ztegritycoin_bg.qm</file>
+        <file alias="ca">locale/ztegritycoin_ca.qm</file>
+        <file alias="cs">locale/ztegritycoin_cs.qm</file>
+        <file alias="da">locale/ztegritycoin_da.qm</file>
+        <file alias="de">locale/ztegritycoin_de.qm</file>
+        <file alias="en">locale/ztegritycoin_en.qm</file>
+        <file alias="en_US">locale/ztegritycoin_en_US.qm</file>
+        <file alias="eo">locale/ztegritycoin_eo.qm</file>
+        <file alias="es">locale/ztegritycoin_es.qm</file>
+        <file alias="es_ES">locale/ztegritycoin_es_ES.qm</file>
+        <file alias="fi">locale/ztegritycoin_fi.qm</file>
+        <file alias="fr_FR">locale/ztegritycoin_fr_FR.qm</file>
+        <file alias="hi_IN">locale/ztegritycoin_hi_IN.qm</file>
+        <file alias="hr">locale/ztegritycoin_hr.qm</file>
+        <file alias="hr_HR">locale/ztegritycoin_hr_HR.qm</file>
+        <file alias="it">locale/ztegritycoin_it.qm</file>
+        <file alias="ja">locale/ztegritycoin_ja.qm</file>
+        <file alias="ko_KR">locale/ztegritycoin_ko_KR.qm</file>
+        <file alias="lt_LT">locale/ztegritycoin_lt_LT.qm</file>
+        <file alias="nl">locale/ztegritycoin_nl.qm</file>
+        <file alias="pl">locale/ztegritycoin_pl.qm</file>
+        <file alias="pt">locale/ztegritycoin_pt.qm</file>
+        <file alias="pt_BR">locale/ztegritycoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/ztegritycoin_ro_RO.qm</file>
+        <file alias="ru">locale/ztegritycoin_ru.qm</file>
+        <file alias="sk">locale/ztegritycoin_sk.qm</file>
+        <file alias="sv">locale/ztegritycoin_sv.qm</file>
+        <file alias="tr">locale/ztegritycoin_tr.qm</file>
+        <file alias="uk">locale/ztegritycoin_uk.qm</file>
+        <file alias="vi">locale/ztegritycoin_vi.qm</file>
+        <file alias="zh_CN">locale/ztegritycoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/ztegritycoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

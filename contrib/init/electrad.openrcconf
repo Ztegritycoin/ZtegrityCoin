@@ -1,0 +1,26 @@
+# /etc/conf.d/ztegritycoind: config file for /etc/init.d/ztegritycoind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/ztegritycoin/ztegritycoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/ztegritycoind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/ztegritycoind.pid"
+
+# Where to write ztegritycoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/ztegritycoind"
+
+# User and group to own ztegritycoind process
+#BITCOIND_USER="ztegritycoin"
+#BITCOIND_GROUP="ztegritycoin"
+
+# Path to ztegritycoind executable
+#BITCOIND_BIN="/usr/bin/ztegritycoind"
+
+# Nice value to run ztegritycoind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
